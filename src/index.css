@@ -1,0 +1,10 @@
+@import "assets/styles/Hero.css";
+@import "assets/styles/Safe.css";
+@import "assets/styles/Experts.css";
+@import "assets/styles/Healthcare.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
