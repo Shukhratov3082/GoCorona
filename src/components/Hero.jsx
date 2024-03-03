@@ -2,8 +2,10 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <div>
-      {/* Botta figmadi faqat tepa qismi qilinadi header va main qismi */}
+    <div className="hero-container">
+      <div className="hero-header"></div>
+      <div className="hero-main"></div>
+      
     </div>
   );
 };
